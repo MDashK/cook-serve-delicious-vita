@@ -5,8 +5,11 @@ A port/patch to make the game **Cook, Serve, Delicious!** (Steam Version) playab
 
 ## Disclaimer
 **The provided files in this repository do not contain any game files.**
+
 To be able to use the provided patch and actually play the game in your PSVita, **you need to legally buy the game on the Steam platform**.
+
 You can buy a copy here: [https://store.steampowered.com/app/247020/Cook_Serve_Delicious/](https://store.steampowered.com/app/247020/Cook_Serve_Delicious/)
+
 The game is usually 2,49€ on sale, tends to be on sale A LOT, it's from an indie developer and has great reviews, so it's a bargain.
 
 ## Instructions
