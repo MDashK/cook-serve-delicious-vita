@@ -44,4 +44,4 @@ If these hashes do not match, then something went wrong.
 3. To save, in the main menu, select "Save and Exit". The game will save and after a few seconds **freeze** when it attemps to exit. When the game freezes, you can then press the PS button and exit the game safely.
 
 ## Credits
-Big Special Thanks to the Vertigo devs for releasing the source code and u/SilicaAndPina for the GayMaker tool.
+Big Special Thanks to the Vertigo devs for releasing the source code and SilicaAndPina for the GayMaker tool.
