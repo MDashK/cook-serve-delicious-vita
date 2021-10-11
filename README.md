@@ -17,7 +17,7 @@ The game is usually 2,49€ on sale, tends to be on sale A LOT, it's from an ind
 5. Once patching is complete you will find your new **"game.win"** file in the main folder.
 6. Install the VPK file into your PSVita.
 7. **Copy the "game.win" folder into the "ux0:app/CSDLICIUS/game" folder.**
-8. **Copy every .OGG file** (files containing "icsteam" in the filename are not necessary) **from your PC's "CookServeDelicious" Steam folder to "ux0:app/CSDLICIUS/game"**
+8. **Copy every .OGG file** (files containing "icsteam" in the filename are not necessary) **from your PC's "CookServeDelicious" Steam folder into the "ux0:app/CSDLICIUS/game" folder.**
 7. Have Fun!
 
 ## Hashes
