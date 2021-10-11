@@ -12,7 +12,7 @@ The game is usually 2,49€ on sale, tends to be on sale A LOT, it's from an ind
 ## Instructions
 1. Download the VPK file that is provided in here, along with the ZIP file containing patch information.
 2. Extract the ZIP to a temporary folder.
-3. Copy your original **"data.win" file from your legally acquired "Cook, Serve, Delicious!" Steam version** into this temporary folder.
+3. Copy your original **"data.win" file from your legally acquired "Cook, Serve, Delicious!" Steam version** into this temporary folder. Make sure the file is placed in the same location as all the other files present in the ZIP.
 4. Double click the "apply_patch.bat" file, a command-line window will open and will start patching automatically.
 5. Once patching is complete you will find your new **"game.win"** file in the main folder.
 6. Install the VPK file into your PSVita.
@@ -22,11 +22,15 @@ The game is usually 2,49€ on sale, tends to be on sale A LOT, it's from an ind
 
 ## Hashes
 The hash information of your **original, unaltered Steam "data.win"** file should be:
-**MD5**: 2d949e8bc64138279d8273f31976ac15 
+
+**MD5**: 2d949e8bc64138279d8273f31976ac15
+
 **CRC32**: e45855e5
 
 The hash information of your **modified, PSVita ready "game.win"** file should be:
-**MD5**: 017c9b84f0fedd4201f04a1073fd511e 
+
+**MD5**: 017c9b84f0fedd4201f04a1073fd511e
+
 **CRC32**: 2a32ef5e
 
 If these hashes do not match, then something went wrong.
